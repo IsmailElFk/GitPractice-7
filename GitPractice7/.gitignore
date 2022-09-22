@@ -1,0 +1,4 @@
+*.log
+!test3.log
+node_packs
+thisFilespecialy.txt
